@@ -21,7 +21,7 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
-            import pandas as pd
+import pandas as pd
 
 data=pd.read_csv(r"C:\Users\MIRDULA\Downloads\Data_set (1).csv")
 
@@ -238,5 +238,9 @@ print("The Dataset after removing the outliers")
 print(df_clean)
 
 image
+Result
+THUS DATA CLEANING IS PERFORMED
+
+
 Result
 THUS DATA CLEANING IS PERFORMED
